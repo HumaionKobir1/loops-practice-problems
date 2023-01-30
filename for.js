@@ -21,14 +21,3 @@ for (i = 0; i <= 20; i+=2){
 for (i = 1; i <= 20; i+=2){
     console.log(i);
 }
-
-var friends = ['Humaion Kobir', 'Tanvir rahman', 'Prince Mahmud', 'Limon Hosen', 'Tahran Taj', 'Ekramul Ishlam'];
-
-for (var i = 0; i < friends.length; i++){
-
-}
-for (let i = 0; i < friends.length; i++) {
-    const friend = friends[i];
-    console.log(friend);
-    
-}
